@@ -1,5 +1,3 @@
-//main.cpp for Recursion assignment
-
 //include statements
 #include <iostream>
 #include <vector>
